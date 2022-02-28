@@ -1,0 +1,16 @@
+{
+    "appTitle": "Фильмы",
+    "byVote": "По рейтингу",
+    "byName": "По названию",
+    "byDate": "По дате выхода",
+    "noInternet": "Нет интернета!!!",
+    "noServiceFound": "Сервис не найден!!!",
+    "invalidFormat": "Неверный формат данных!!!",
+    "aboutMovie": "О фильме",
+    "releaseDate": "Дата выхода",
+    "income": "Доход",
+    "noMovie": "На данный момент нет фильмов!",
+    "lang": "ru",
+    "hour": "час",
+    "minutes": "минут"
+}

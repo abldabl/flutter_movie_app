@@ -1,0 +1,16 @@
+{
+    "appTitle": "Movies",
+    "byVote": "By rating",
+    "byName": "By name",
+    "byDate": "By date",
+    "noInternet": "No internet connection!!!",
+    "noServiceFound": "No Service Found",
+    "invalidFormat": "Invalid Data Format",
+    "aboutMovie": "About movie",
+    "releaseDate": "Release date",
+    "income": "Income",
+    "noMovie": "There is no movie!",
+    "lang": "en",
+    "hour": "hour",
+    "minutes": "minutes"
+}
